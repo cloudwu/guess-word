@@ -1,0 +1,9 @@
+create
+your
+own
+wordlist
+one
+word
+per
+line
+

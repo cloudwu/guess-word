@@ -1,0 +1,7 @@
+This is a helper for playing draw something.
+
+Create your own wordlist.txt first ,  and then
+
+lua guess.lua aowdr 4
+
+aowdr is the charactor set, 4 means the word's length is 4.
